@@ -51,7 +51,7 @@ El listado de ficheros que tienen este linea són:
 ├──┤línea 17├──» generateAudioTracks.js
 │  └────────┘
 │  ┌────────┐
-└──┤línea 17├──» generateTracksVideoHls.js
+└──┤línea 13├──» generateTracksVideoHls.js
    └────────┘
 
 ```

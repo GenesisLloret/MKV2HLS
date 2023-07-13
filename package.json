@@ -1,7 +1,7 @@
 {
-  "name": "test",
+  "name": "MKV2HLS",
   "version": "1.0.0",
-  "description": "",
+  "description": "CONVERT MKV TO HLS WITH FFMPEG",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
