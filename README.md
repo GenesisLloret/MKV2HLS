@@ -48,7 +48,7 @@ El listado de ficheros que tienen este linea són:
 ./components
 │
 │  ┌────────┐
-├──┤línea 17├──» generateAudioTracks.js
+├──┤línea 17├──» generateAudioTracks.js 
 │  └────────┘
 │  ┌────────┐
 └──┤línea 13├──» generateTracksVideoHls.js
